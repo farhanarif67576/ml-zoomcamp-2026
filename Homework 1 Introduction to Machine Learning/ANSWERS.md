@@ -1,0 +1,7 @@
+- Q1: run `pd.__version__` in the environment used for the homework
+- Q2: 10000
+- Q3: 3
+- Q4: 2
+- Q5: 41.2
+- Q6: No
+- Q7: 0.369
